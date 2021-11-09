@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(147, 162, 182);
+   
+}
+
+
+
+.container{
+    width: 400px;
+    height: 600px;
+    margin:0 auto;
+    margin-top: 200px;
+    
+}
+
+
+h1{
+    color: rgba(71, 12, 211, 0.678);
+    font-size: 40px;
+    
+
+
+}
+.divinput input{
+    margin: 6px;
+    font-size: 20px;
+    border-radius: 10px;
+
+    
+    
+}
+.divinput button{
+    font-size: 20px;
+    color: rgb(7, 71, 41);
+    border-radius: 10px 0px;
+    text-shadow: rgb(247, 4, 53) 60px;
+}
